@@ -43,7 +43,7 @@ O desafio foi basicamente implementar um hook de carrinho de compras e utilizá-
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
 
-Agora você pode acessar [`localhost:8080`](http://localhost:8080) do seu navegador.
+Agora você pode acessar [`localhost:8080`](http://localhost:3000) do seu navegador.
 
 ## 📄 Licença
 
