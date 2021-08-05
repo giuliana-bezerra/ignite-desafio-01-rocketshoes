@@ -14,7 +14,7 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
  <img src="https://img.shields.io/static/v1?label=Ignite&message=ReactJS&color=8257E5&labelColor=000000" alt="Ignite ReactJS" />
- <img src="https://img.shields.io/static/v1?label=Capítulo-2&message=Desafio-01&color=8257E5&labelColor=000000" alt="ReactJS" />
+ <img src="https://img.shields.io/static/v1?label=Chapter-2&message=Desafio-01&color=8257E5&labelColor=000000" alt="ReactJS" />
 </p>
 
 <br>
